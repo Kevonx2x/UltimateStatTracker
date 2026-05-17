@@ -97,7 +97,7 @@ public class StatKeys {
      public static String TROUT_EATEN = "troutEaten";
      public static String FOOD_COOKED = "foodCooked";
      public static String FOOD_BURNED = "foodBurned";
-     public static String POTION_SIPS_DRANK = "potionSips";
+     public static String POTION_SIPS_CONSUMED = "potionSips";
 
      // --- Thieving ---
      public static String PICK_POCKETS = "pickPockets";
